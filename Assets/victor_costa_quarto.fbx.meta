@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: 8dad1ade8d9d4cb40b3f516beb93b8e5
+guid: ab105da39aab16f488ce606915c48db2
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: 382864cde271c6e49a35ec4eb86fd4a2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Mundo
-    second: {fileID: 2100000, guid: 11a5c80594e49f04fb960c8aeb09ab15, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Quarto - Piso Par
-    second: {fileID: 2100000, guid: fede368dcb31a1d4a86509cec99f83db, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "Quarto - Piso \xCDmpar"
-    second: {fileID: 2100000, guid: 0d44dd4acde047f498cf1ed9b22f7abc, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
